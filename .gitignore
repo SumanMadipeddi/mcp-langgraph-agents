@@ -8,3 +8,4 @@ dist/
 .venv
 .env
 .playwright-mcp/
+*graph_agent/main.py
